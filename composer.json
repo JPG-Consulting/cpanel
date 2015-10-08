@@ -1,5 +1,6 @@
 {
     "require": {
-        "php": ">=5.3.23"
+        "php": ">=5.3.23",
+        "zendframework/zendframework": "2.4.8"
     }
 }
